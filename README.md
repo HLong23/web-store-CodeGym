@@ -1,6 +1,6 @@
 # CodeGym WebShop
 
-Ứng dụng quản lý cửa hàng trực tuyến với đầy đủ chức năng CRUD cho sản phẩm, nhân viên, khách hàng và đơn hàng.
+Ứng dụng quản lý cửa hàng trực tuyến với chức năng CRUD cho sản phẩm, nhân viên, khách hàng và đơn hàng.
 
 ## Cài đặt
 
