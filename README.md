@@ -23,7 +23,7 @@ db.password=123456
 3. Cấu hình Tomcat như trong ảnh `screenshots/Tomcat.png` (Dùng SmartTomcat)
 4. Run
 
-### 5. Truy cập ứng dụng
+### 4. Truy cập ứng dụng
 
 Mở trình duyệt và truy cập:
 - Trang chủ: `http://localhost:8080/web-store-CodeGym/`
@@ -39,7 +39,7 @@ Mở trình duyệt và truy cập:
 - **Quản lý khách hàng**: Thêm, sửa, xóa khách hàng
 - **Quản lý đơn hàng**: Tạo đơn hàng, xem chi tiết, xóa đơn hàng
 
-### Giao diện ứng dụng
+## Giao diện ứng dụng
 
 ![Demo 1](screenshots/demo1.png)
 
